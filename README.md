@@ -46,5 +46,5 @@ To use the eMAG Price Tracker:
 * twilio library for sending SMS messages.
 * python-dotenv library for loading environmental variables.
 
-*Example of a price drop:*
+## Example:
  ![image](https://github.com/seyf97/eMAG-Price-Tracker/assets/111386377/69cc2e02-3602-4647-8896-3a28ea963dfc)
