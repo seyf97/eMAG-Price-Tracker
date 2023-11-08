@@ -1,6 +1,6 @@
 # eMAG Price Tracker
 ## Overview
-eMAG Price Tracker is a Python application that checks for price drops on a specific product from the eMAG.ro website and sends an SMS alert when the price decreases. This documentation covers the application's Python modules: main.py, notification_manager.py, and web_scraper.py.
+eMAG Price Tracker is a Python application that checks for price drops on a specific product from the eMAG.ro website and sends an SMS alert when the price decreases. This documentation covers the application's Python modules: main.py, notification_manager.py, and web_scraper.py. The project was then uploaded on an AWS EC2 instance and is scheduled to run every hour using cron.
 
 ## Modules
 ### main.py
